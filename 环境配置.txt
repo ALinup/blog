@@ -1,0 +1,5 @@
+Nginx 1.18.0
+MySQL 5.5.62
+PHP-7.4
+Pure-Ftpd 1.0.49
+phpMyAdmin 5.0
